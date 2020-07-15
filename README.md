@@ -7,13 +7,16 @@ English guide:
 
 MPU6050 can connect to the usb connection or the microprocessor and MiniIMU can read the data of MPU6050.
 
+
 How to use it:
 
 Just open MiniIMU.exe
 
+
 How to change the language:
 
 Find "语言" in the top of this software and click to change to language. If you still cannot find it, you can click all the button in the top and at least you will find the word "English".
+
 
 I cannot run MiniIMU.exe:
 
